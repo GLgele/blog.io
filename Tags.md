@@ -1,4 +1,4 @@
 
 <script type="text/javascript">
- window.location.assign("http://www.example.com")
+ window.location.assign("tags")
 </script>
