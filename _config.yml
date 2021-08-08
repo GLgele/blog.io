@@ -58,6 +58,6 @@ comments :
 google_analytics:  # 填写你  google_analytics id
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+bing_verify: 34e16a10ee20402fb9108bb7733388b1
 
 # Links to include in footer navigation
