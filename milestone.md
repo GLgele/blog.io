@@ -6,4 +6,4 @@ header-img: "img/twitter.jpg"
 ---
 ## 模板
 
-* [模板](blog/2015/03/02/how-to-write/)
+* [模板](../blog/2015/03/02/how-to-write/)
