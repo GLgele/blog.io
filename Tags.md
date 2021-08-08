@@ -1,4 +1,4 @@
 
 <script type="text/javascript">
- window.location.assign("https://glgele.github.io/tags")
+ window.location.assign("tags")
 </script>
