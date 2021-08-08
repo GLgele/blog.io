@@ -1,14 +1,9 @@
 ---
 layout: page
-title: "milestone"
-description: "代表作"
-header-img: "img/zhihu.jpg"
+title: "Works"
+description: "这里按系列集合了所有作品"
+header-img: "img/twitter.jpg"
 ---
+# 模板
 
-这个页面放置你的代表作。
-
-
-
-
-
-
+* [模板](blog/2015/03/02/how-to-write/)
